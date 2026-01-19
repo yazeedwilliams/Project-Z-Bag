@@ -103,13 +103,9 @@ This project uses the following third-party assets:
 - Standard displays will show doubled stereoscopic view
 - Stylus input requires zSpace drivers
 
-## 📄 License
-
-[Add your license information here]
-
 ## 👥 Contributors
 
-[Add contributor information here]
+- [Abongile Thomas Mlanjeni](linkedin.com/in/abongile-thomas-mlanjeni-9b4a56140)
 
 ## 📞 Support
 
